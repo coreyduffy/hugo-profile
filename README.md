@@ -1,5 +1,8 @@
+# NOTE
+
 The following is a fork of the hugo-profile theme for hugo websites that I have customised to suit the needs of my own website.
 
+---
 
 
 # Hugo Profile | [Wiki Page](https://github.com/gurusabarish/hugo-profile/wiki)
